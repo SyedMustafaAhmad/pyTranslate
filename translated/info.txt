@@ -1,0 +1,1 @@
+This is a history directory to store all previous translations with their respective timestamps.
